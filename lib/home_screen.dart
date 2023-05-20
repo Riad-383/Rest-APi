@@ -24,7 +24,7 @@ class _HomeScreenState extends State<HomeScreen> {
             bottom: const TabBar(
               tabs: [
                 Tab(
-                  child: Icon(Icons.groups),
+                  child: Icon(Icons.groups  ),
                 ),
                 Tab(
                   child: Text('Chats'),
